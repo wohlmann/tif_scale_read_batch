@@ -1,2 +1,2 @@
 # tif_scale_read_batch
- readout of Pixwitdh and height from tif files - outpouut in csv
+ ImageJ macro for readout of Pixwitdh and height from tif files - output in csv
